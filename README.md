@@ -1,7 +1,10 @@
-![Screenshot_20210718_101149](https://user-images.githubusercontent.com/80355486/126076261-2006928d-4d68-46ea-a1fd-684ccd5d1cbe.png)
+![new_screenshot](https://imgur.com/2gpnD5Q.png)
 
 # Slate
-Uniform transparency for Yakuake
+Fixes: 
+
+- Uniform transparency for Yakuake;
+- Icons centered inside the bottom block properly.
 
 ### Blur Yakuake
 Add this line under the [Appearance] heading in ~/.config/yakuakerc
