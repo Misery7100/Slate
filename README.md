@@ -3,7 +3,6 @@
 # Slate
 Fixes: 
 
-- Uniform transparency for Yakuake;
 - Icons centered inside the bottom block properly.
 
 ### Blur Yakuake
